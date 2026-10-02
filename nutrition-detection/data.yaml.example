@@ -1,7 +1,0 @@
-# Copy this file to data.yaml and replace the paths and class names with your dataset.
-path: ../dataset/nutrition
-train: images/train
-val: images/val
-
-names:
-  0: replace_with_your_class_name
