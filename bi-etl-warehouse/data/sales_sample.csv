@@ -1,0 +1,9 @@
+sale_date,region,product,quantity,revenue
+2025-01-03,North,Tea,18,72.00
+2025-01-05,South,Coffee,12,66.00
+2025-01-11,East,Tea,9,36.00
+2025-02-02,West,Coffee,14,77.00
+2025-02-12,North,Coffee,8,44.00
+2025-02-18,South,Tea,21,84.00
+2025-03-04,East,Coffee,16,88.00
+2025-03-14,West,Tea,11,44.00
